@@ -27,7 +27,7 @@ public class Mavenproject2 {
         } catch (InterruptedException ex) {
             Logger.getLogger(Mavenproject2.class.getName());
         }
-        
+        System.out.println("Hola");
         
     }
 }
